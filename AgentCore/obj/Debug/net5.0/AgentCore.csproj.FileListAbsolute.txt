@@ -1,0 +1,5 @@
+C:\Code Repository\Sysguard\it-security-solution\agent\src\AgentCore\obj\Debug\net5.0\AgentCore.csproj.AssemblyReference.cache
+C:\Code Repository\Sysguard\it-security-solution\agent\src\AgentCore\obj\Debug\net5.0\AgentCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code Repository\Sysguard\it-security-solution\agent\src\AgentCore\obj\Debug\net5.0\AgentCore.AssemblyInfoInputs.cache
+C:\Code Repository\Sysguard\it-security-solution\agent\src\AgentCore\obj\Debug\net5.0\AgentCore.AssemblyInfo.cs
+C:\Code Repository\Sysguard\it-security-solution\agent\src\AgentCore\obj\Debug\net5.0\AgentCore.csproj.CoreCompileInputs.cache

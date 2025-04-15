@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "mnJHi4JjPOA=",
+  "success": false,
+  "projectFilePath": "C:\\Code Repository\\Sysguard\\it-security-solution\\agent\\src\\RemoteShellServer\\RemoteShellServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\5.0.11\\microsoft.aspnetcore.connections.abstractions.5.0.11.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\5.0.11\\microsoft.aspnetcore.http.connections.client.5.0.11.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\5.0.11\\microsoft.aspnetcore.http.connections.common.5.0.11.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.11\\microsoft.aspnetcore.http.features.5.0.11.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\5.0.11\\microsoft.aspnetcore.signalr.client.5.0.11.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\5.0.11\\microsoft.aspnetcore.signalr.client.core.5.0.11.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\5.0.11\\microsoft.aspnetcore.signalr.common.5.0.11.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\5.0.11\\microsoft.aspnetcore.signalr.protocols.json.5.0.11.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
+    "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\system.threading.channels\\5.0.0\\system.threading.channels.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package System.Net.WebSockets.Client with version (>= 4.5.0)\r\n  - Found 15 version(s) in nuget.org [ Nearest version: 4.3.2 ]\r\n  - Found 0 version(s) in Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.Net.WebSockets.Client",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

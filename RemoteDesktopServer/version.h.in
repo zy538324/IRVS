@@ -1,0 +1,7 @@
+#pragma once
+
+// Auto-generated version header from CMake configuration
+#define REMOTE_DESKTOP_SERVER_VERSION_MAJOR @RemoteDesktopServer_VERSION_MAJOR@
+#define REMOTE_DESKTOP_SERVER_VERSION_MINOR @RemoteDesktopServer_VERSION_MINOR@
+#define REMOTE_DESKTOP_SERVER_VERSION_PATCH @RemoteDesktopServer_VERSION_PATCH@
+#define REMOTE_DESKTOP_SERVER_VERSION "@RemoteDesktopServer_VERSION@"

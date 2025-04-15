@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code Repository\\Sysguard\\it-security-solution\\agent\\src\\AgentCore\\AgentCore.csproj": {}
+    "C:\\Code Repository\\Sysguard\\it-security-solution\\agent\\src\\AVScanner\\AVScanner.csproj": {}
   },
   "projects": {
-    "C:\\Code Repository\\Sysguard\\it-security-solution\\agent\\src\\AgentCore\\AgentCore.csproj": {
+    "C:\\Code Repository\\Sysguard\\it-security-solution\\agent\\src\\AVScanner\\AVScanner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code Repository\\Sysguard\\it-security-solution\\agent\\src\\AgentCore\\AgentCore.csproj",
-        "projectName": "AgentCore",
-        "projectPath": "C:\\Code Repository\\Sysguard\\it-security-solution\\agent\\src\\AgentCore\\AgentCore.csproj",
+        "projectUniqueName": "C:\\Code Repository\\Sysguard\\it-security-solution\\agent\\src\\AVScanner\\AVScanner.csproj",
+        "projectName": "AVScanner",
+        "projectPath": "C:\\Code Repository\\Sysguard\\it-security-solution\\agent\\src\\AVScanner\\AVScanner.csproj",
         "packagesPath": "C:\\Users\\MattPalmer_dn8o0fz\\.nuget\\packages\\",
-        "outputPath": "C:\\Code Repository\\Sysguard\\it-security-solution\\agent\\src\\AgentCore\\obj\\",
+        "outputPath": "C:\\Code Repository\\Sysguard\\it-security-solution\\agent\\src\\AVScanner\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,14 +50,6 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Microsoft.Extensions.Configuration": {
-              "target": "Package",
-              "version": "[5.0.0, )"
-            },
-            "Microsoft.Extensions.Configuration.Json": {
-              "target": "Package",
-              "version": "[5.0.0, )"
-            },
             "Microsoft.Extensions.Logging": {
               "target": "Package",
               "version": "[5.0.0, )"
@@ -66,9 +58,9 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
-            "System.Diagnostics.DiagnosticSource": {
+            "System.Net.Http": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[4.3.4, )"
             }
           },
           "imports": [
