@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "m77eiBnvxxs=",
+  "success": false,
+  "projectFilePath": "C:\\Code Repository\\Sysguard\\it-security-solution\\AgentCore\\AgentCore.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Code Repository\\Sysguard\\it-security-solution\\SystemMonitor\\SystemMonitor.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Code Repository\\Sysguard\\it-security-solution\\SystemMonitor\\SystemMonitor.csproj",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

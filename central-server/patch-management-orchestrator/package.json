@@ -1,0 +1,16 @@
+{
+  "name": "patch-management-orchestrator",
+  "version": "1.0.0",
+  "description": "Patch Management Orchestrator for IT Security Solution",
+  "main": "src/orchestrator.js",
+  "scripts": {
+    "start": "node src/orchestrator.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}

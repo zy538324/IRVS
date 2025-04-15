@@ -1,0 +1,17 @@
+{
+  "name": "auth-service",
+  "version": "1.0.0",
+  "description": "Authentication service for the IT security solution, handling role-based access control and session management.",
+  "main": "src/auth.js",
+  "scripts": {
+    "start": "node src/auth.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "express": "^4.17.1",
+    "bcrypt": "^5.0.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}

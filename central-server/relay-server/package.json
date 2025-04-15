@@ -1,0 +1,16 @@
+{
+  "name": "relay-server",
+  "version": "1.0.0",
+  "description": "Relay server for NAT traversal in the IT security solution.",
+  "main": "src/relay.js",
+  "scripts": {
+    "start": "node src/relay.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "ws": "^8.0.0",
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}

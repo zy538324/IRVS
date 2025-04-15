@@ -1,0 +1,16 @@
+{
+  "name": "command-dispatcher",
+  "version": "1.0.0",
+  "description": "Command Dispatcher for handling agent requests and tasks in the IT security solution.",
+  "main": "src/dispatcher.js",
+  "scripts": {
+    "start": "node src/dispatcher.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
